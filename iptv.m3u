@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/250px-BBC_One_logo_2021.svg.png" group-title="General",BBC One West Midlands
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITV1_HD_logo_2022.svg/512px-ITV1_HD_logo_2022.svg.png" group-title="General",ITV 1
+https://x.canlitvapp.com/u-itv1/index.m3u8
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/250px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="General",Channel 4
+https://x.canlitvapp.com/u-channel-4/index.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5
+https://x.canlitvapp.com/u-channel-5/index.m3u8
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/235px-ITV2_logo_2022.svg.png" group-title="General",ITV 2
+https://x.canlitvapp.com/u-itv2/index.m3u8
+#EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/250px-ITV3_logo_2022.svg.png" group-title="General",ITV 3
+https://x.canlitvapp.com/u-itv3/index.m3u8
+#EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/250px-ITV4_logo_%282022%29.svg.png" group-title="General",ITV 4
+https://x.canlitvapp.com/u-itv4/index.m3u8
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/250px-BBC_Three_2022.svg.png" group-title="General",BBC Three
+https://x.canlitvapp.com/u-bbc3/index.m3u8
+#EXTINF:-1 tvg-name="E4" tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="General",E4
+https://x.canlitvapp.com/u-e4/index.m3u8
+
+
+
 #EXTINF:-1 tvg-name="CBBC Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/640px-CBBC_%282023%29.svg.png" tvg-id="CBBC.uk" group-title="UK",CBBC Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="CBeebies Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/640px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="UK",CBeebies Ⓖ
@@ -26,4 +49,25 @@ https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Hindi Hits" tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="India",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="India",B4U Movies
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="India",B4U Music
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1 tvg-name="Dil Se" tvg-logo="https://i.imgur.com/zYbltEk.png" group-title="India",Dil Se
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmeraa" tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png" group-title="India",Filmeraa
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:-1 tvg-name="Food Food" tvg-logo="https://i.imgur.com/J930pA1.png" group-title="India",Food Food
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-name="Maha Movie" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="India",Maha Movie
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="India",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
+#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://i.imgur.com/nnqpYNm.png" group-title="Sports",Ten Sports
+http://121.91.61.106:8000/play/a04h/index.m3u8
+
 
